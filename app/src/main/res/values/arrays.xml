@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="medication_types">
+        <item>Medication Type 1</item>
+        <item>Medication Type 2</item>
+        <item>Medication Type 3</item>
+        <!-- Diğer ilaç türleri için item'ları buraya ekleyin -->
+    </string-array>
+</resources>

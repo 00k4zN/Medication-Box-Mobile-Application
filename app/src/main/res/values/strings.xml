@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">proje</string>
+    <string name="medication_type_prompt">Select Medication Type</string>
+
+</resources>
