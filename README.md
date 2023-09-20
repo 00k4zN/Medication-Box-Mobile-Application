@@ -8,8 +8,8 @@ Bu rapor, mobil bir ilaç hatırlatma uygulamasının Java programlama dili kull
 ANASAYFA
 Anasayfa ilk açıldığında boş bir şekilde açılıyor. Ekranda sadece ilaç ekle butonu bulunmaktadır. Butona tıklandığında ikinci bir sayfa açılıyor ve buradan ilaç eklendiğinde anasayfada listeleniyor.
 
-![alt text](![image](https://github.com/ozkanyav/ilac-kutusu-mobil-uygulama/assets/130536792/50c97363-448c-48d0-8688-63f895bffa5e)
-)
+<img src="[gorsel-link](https://github.com/ozkanyav/ilac-kutusu-mobil-uygulama/blob/main/Anasayfa.png)" width="auto">
+
 
  
 1. SAYFA
