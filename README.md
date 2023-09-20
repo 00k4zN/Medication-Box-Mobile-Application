@@ -16,14 +16,13 @@ Anasayfa ilk açıldığında boş bir şekilde açılıyor. Ekranda sadece ila�
 1. SAYFA
 Bu sayfada bir ilaç kayıt formu bulunmaktadır. Anasayfadan ilaç ekle butonuna tıklandığında kullanıcı bu sayfaya yönlendiriliyor. Bu formda İlaç Adı ve İlaç Türü seçilerek Kaydet butonuna tıklandığında formdaki veriler anasayfaya gönderilir. 
 
-
+![Ana Sayfa](https://github.com/ozkanyav/ilac-kutusu-mobil-uygulama/blob/main/1-sayfa.png)
  
 2. SAYFA
 Anasayfada listelenen ilaçlardan istenilenin üstüne tıklandığında 2 adet buton çıkmaktadır. Bu butonlardan biri Sil diğeri ise Hatırlat işlevini görmektedir. Hatırlat butonuna tıklandığında kullanıcıyı 2. Sayfa olan Hatırlat sayfasına yönlendirmektedir. Bu sayfada istenilen zaman iki farklı arayüzde saat ve dakika olarak seçilebilir ardından Hatırlatıcıyı Ayarla butonuna tıklandığında seçilen ilaca yönelik hatırlatıcı kurulmuş olur. 
  
 
-
-
+![Ana Sayfa](https://github.com/ozkanyav/ilac-kutusu-mobil-uygulama/blob/main/2-sayfa.png)
 
 
 
